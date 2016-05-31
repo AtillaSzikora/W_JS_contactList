@@ -1,0 +1,12 @@
+div {
+    margin: 20px 0 0 20px;
+    padding: 4px 20px 4px 20px;
+    width: 300px;
+    background-color: aliceblue;
+    display: inline-block;
+}
+
+body {
+    margin: 0;
+    background-color: bisque;
+}
